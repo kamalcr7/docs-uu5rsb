@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-sln9tm.assetshst.online/sitemap.xml
